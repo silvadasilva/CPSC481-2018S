@@ -62,7 +62,6 @@ This course provides an introduction to the process of designing, creating and e
 	- **Final Exam**
 
 
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
 ## Tutorials
 - TBD
