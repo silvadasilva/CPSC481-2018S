@@ -20,4 +20,4 @@ Team contracts ensure that students on a team discuss what their expectations an
 This component is graded on completion. If it is unsatisfactory, it will be returned for revision.
  -->
 ## Resources
-[Team Contract Handout](#!files/TeamContract-Handout.docx)
+<!-- [Team Contract Handout](#!files/TeamContract-Handout.docx) -->
