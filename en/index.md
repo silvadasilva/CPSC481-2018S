@@ -6,7 +6,7 @@
 This course provides an introduction to the process of designing, creating and evaluating tools or artifacts for direct human use.
 
 - Lectures: MW 13:00 - 15:45, ST 147
-- Office hours: by appointment
+- Office hours: W 16:00 - 17:00 or by appointment
 - Instructor: Tiago Silva da Silva
 - Tutorials
 	- TR 09:00 - 10:50, MS 156
@@ -21,45 +21,41 @@ This course provides an introduction to the process of designing, creating and e
 - Wed, May 16
 	- Good interfaces
 	- Designing for People
+	- Inpection Evaluation
 - Mon, May 21
+	- *Long weekend*
+- Wed, May 23
+	- Presentations A1: Heuristic Evaluation
 	- Investigation
 	- IDEO Methods: Look
 	- IDEO Methods: Ask
-- Wed, May 23
+- Mon, May 28
 	- IDEO Methods: Learn
 	- IDEO Methods: Try
 	- Ideation
-- Mon, May 28
+- Wed, May 30
 	- Task-Centered System Design
 	- Task-Centered System Design: Walkthrough
-- Wed, May 30
 	- Sketching
-	- Prototyping I
-	- Prototyping II
+	- Prototyping
 - Mon, Jun 4
-	- Design of Everyday Things I
-	- Design of Everyday Things II
-	- Design of Everyday Things III
-	- Design of Everyday Things IV
+	- Presentations P2: Balsamiq prototypes
+	- Hi-fi prototypes
+	- UI Patterns
 - Wed, Jun 6
-	- Usability Testing
+	- **Midterm exam**
 - Mon, Jun 11
-	- **Midterm**
+	- Graphic Design
 - Wed, Jun 13
-	- Heuristic Evaluation I
-	- Heuristic Evaluation II
+	- User Testing
 - Mon, Jun 18
-	- Personas
-	- Fitt's Law
+	- Data Visualization
 - Wed, Jun 20
-	- Tutorial: Work, P3 demos
-	- Information Representation
-	- Information Visualization I
-	- Information Visualization II
+	- Natural User Interfaces
 - Mon, Jun 25
-	- P4: Presentations
+	- Final presentations P4: functional hi-fi protytpe + problems fixed
 - Wed, Jun 27
-	- **Final Exam**
+	- **Final exam**
 
 
 
@@ -67,13 +63,12 @@ This course provides an introduction to the process of designing, creating and e
 - TBD
 
 ## Expected Assignment Dates
-- A0: 5/16, noon
-- A1:
-- A2:
-- A3:
-- A4: 
-- P0:
-- P1:
-- P2:
-- P3:
-- P4:
+- A0: May, 16
+- A1: May, 23
+- A2: May, 30
+- A3: Jun, 11
+- P0: May, 23
+- P1: May, 30
+- P2: Jun, 4
+- P3: Jun, 18
+- P4: Jun, 25

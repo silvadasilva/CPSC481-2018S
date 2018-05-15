@@ -16,8 +16,8 @@ Team contracts ensure that students on a team discuss what their expectations an
 - Draft: Turn in your draft team contract proposal as a printed sheet of paper.
 - Revised: Turn in the final team contract proposal (signed by all members) by scanning each page of the contract, and posting it into your GitHub portfolio site.
 
-## Grading sheet
+<!-- ## Grading sheet
 This component is graded on completion. If it is unsatisfactory, it will be returned for revision.
-
+ -->
 ## Resources
-Team Contract Handout
+[Team Contract Handout](#!files/TeamContract-Handout.docx)
