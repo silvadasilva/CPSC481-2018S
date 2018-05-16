@@ -11,7 +11,7 @@ This course provides an introduction to the process of designing, creating and e
 - Tutorials
 	- TR 09:00 - 10:50, MS 156
 	- TR 11:00 - 12:50, MS 156
-- TA: Bruna Brandão (Test)
+- TA: Bruna Brandão
 
 
 ## Tentative Calendar
