@@ -17,7 +17,7 @@ This course provides an introduction to the process of designing, creating and e
 ## Tentative Calendar
 
 - Mon, May 14
-	- Introduction
+	- Introduction - [Slides](https://www.dropbox.com/s/81wt61cr5t8asb6/CPSC481-00-Introduction.pdf?dl=0)
 - Wed, May 16
 	- Good interfaces
 	- Designing for People
