@@ -17,11 +17,10 @@ This course provides an introduction to the process of designing, creating and e
 ## Tentative Calendar
 
 - Mon, May 14
-	- Introduction - [Slides](https://www.dropbox.com/s/81wt61cr5t8asb6/CPSC481-00-Introduction.pdf?dl=0)
+	- Introduction - [Slides](https://www.dropbox.com/s/j2s2k1w24djf2s8/CPSC481-00-Introduction.pdf?dl=0)
 - Wed, May 16
-	- Good interfaces
-	- Designing for People
-	- Inpection Evaluation
+	- Good interfaces - [Slides](https://www.dropbox.com/s/vfibe52q1vfonrl/CPSC481-01-GoodInterfaces.pdf?dl=0)
+	- Heuristic Evaluation - [Slides](https://www.dropbox.com/s/b0lexs7ftswyln6/CPSC481-01-HeuristicEvaluation.pdf?dl=0)
 - Mon, May 21
 	- *Long weekend*
 - Wed, May 23
