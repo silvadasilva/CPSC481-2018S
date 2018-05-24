@@ -68,7 +68,7 @@ This course provides an introduction to the process of designing, creating and e
 - A2: May, 30
 - A3: Jun, 11
 - P0: May, 23
-- P1: May, 30
+- P1: Jun, 1
 - P2: Jun, 4
 - P3: Jun, 18
 - P4: Jun, 25
