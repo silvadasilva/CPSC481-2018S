@@ -27,6 +27,7 @@ Since this is a class project, you need not necessarily interview as many users 
 - Empathy tools
 
 ## Deliverable
-You should deliver a report describing the activities you carried out as well as your findings and conclusions.
+A report describing the activities you carried out as well as your findings and conclusions.
 
 ## Resources
+- [IDEO Method Cards](https://www.dropbox.com/s/q4adue2scffjbdh/ideo-method-cards-2by1.pdf?dl=0)

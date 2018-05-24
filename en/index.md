@@ -25,9 +25,10 @@ This course provides an introduction to the process of designing, creating and e
 	- *Long weekend*
 - Wed, May 23
 	- Presentations A1: Heuristic Evaluation
-	- Investigation
-	- IDEO Methods: Look
-	- IDEO Methods: Ask
+	- User-Centered Design - [Slides](https://www.dropbox.com/s/97pqg9jidx5cxx0/CPSC481-02-01-UserCenteredDesign.pdf?dl=0)
+	- Investigation - [Slides](https://www.dropbox.com/s/m3dy02yh2sjz1wx/CPSC481-02-02-Investigation.pdf?dl=0)
+	- IDEO Methods: Look - [Slides](https://www.dropbox.com/s/wrbttvpn93jwvw7/CPSC481-02-03-Look.pdf?dl=0)
+	- IDEO Methods: Ask - [Slides](https://www.dropbox.com/s/hn6ltzfwdglazyu/CPSC481-02-04-Ask.pdf?dl=0)
 - Mon, May 28
 	- IDEO Methods: Learn
 	- IDEO Methods: Try
