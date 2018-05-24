@@ -4,12 +4,12 @@ There are three assignments, worth a total of 12 points, plus a bonus assignment
 
 <!-- Assignments are to be completed individually. You may speak to your classmates about the ideas, but are not allowed to use one another's writing or to share code. -->
 
-| Assignment               | Value | Due date.          |
-|--------------------------|-------| -------------------|
-| A0: Slack introduction   |       | 5/16, before class |
-| A1: TBD                  | 4%    | May, 23            |
-| A2: TBD                  | 4%    | May, 30            |
-| A3: TBD                  | 4%    | June, 11           |
+| Assignment                | Value | Due date.          |
+|---------------------------|-------| -------------------|
+| A0: Slack introduction    |       | 5/16, before class |
+| A1: Heuristic evaluation  | 4%    | May, 23            |
+| A2: User-centered research| 4%    | May, 30            |
+| A3: UI Patterns           | 4%    | June, 11           |
 
 ## A0: Slack introduction
 
@@ -31,7 +31,19 @@ In this assignement, your task is to choose a computational system and carry out
 
 ## A2: User-centered research
 
-You are to consider the IDEO methods for two different design problems that you have, identifying which would be good methods for understanding the design problem, and arguing for why. This is an individual assignment.
+You are to consider the IDEO methods for one design problem that you have, identifying which would be good methods for understanding the design problem, and arguing for why. **This is an individual assignment.**
+
+Choose one design problem. From here, identify one method from each of the four IDEO categories (look, listen, try, and learn) that you could conduct to develop an understanding of the design problem and the users in it. Thus, choose a total of four methods -- one from each of the IDEO categories. The four methods you choose should complement one another.
+
+From here, you need to do three things:
+1. Explain how you would apply each IDEO method (one from each of the categories) with sufficient detail that your manager would be able to do it without you.
+2. Justify why the method is a good one in this context.
+3. Explain how the methods complement one another (i.e. fill in gaps knowledge that other methods leave open).
+
+Your report should be roughly 3/4 to 1 physical page long. Use headers to delineate the different sections of the report.
+
+Use 12-pt Times font with 1" margin on all sides.
+
 
 
 ## A3: UI Patterns for your project
