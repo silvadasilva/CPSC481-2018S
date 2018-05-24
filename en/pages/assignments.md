@@ -31,7 +31,8 @@ In this assignement, your task is to choose a computational system and carry out
 
 ## A2: User-centered research
 
-You are to consider the IDEO methods for several different design problems, identifying which would be good methods for understanding the design problem, and arguing for why.
+You are to consider the IDEO methods for two different design problems, identifying which would be good methods for understanding the design problem, and arguing for why.
+
 
 ## A3: UI Patterns for your project
 
