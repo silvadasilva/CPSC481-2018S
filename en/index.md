@@ -30,10 +30,10 @@ This course provides an introduction to the process of designing, creating and e
 	- IDEO Methods: Look - [Slides](https://www.dropbox.com/s/wrbttvpn93jwvw7/CPSC481-02-03-Look.pdf?dl=0)
 	- IDEO Methods: Ask - [Slides](https://www.dropbox.com/s/hn6ltzfwdglazyu/CPSC481-02-04-Ask.pdf?dl=0)
 - Mon, May 28
-	- IDEO Methods: Learn
-	- IDEO Methods: Try
-	- Ideation
+	- IDEO Methods: Learn - [Slides](https://www.dropbox.com/s/gyqln8sutwxq8gy/CPSC481-03-01-Learn.pdf?dl=0)
+	- IDEO Methods: Try - [Slides](https://www.dropbox.com/s/m6cpkb0vxv23f37/CPSC481-03-02-Try.pdf?dl=0)
 - Wed, May 30
+	- Ideation
 	- Task-Centered System Design
 	- Task-Centered System Design: Walkthrough
 	- Sketching
