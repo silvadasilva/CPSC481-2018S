@@ -33,11 +33,11 @@ This course provides an introduction to the process of designing, creating and e
 	- IDEO Methods: Learn - [Slides](https://www.dropbox.com/s/gyqln8sutwxq8gy/CPSC481-03-01-Learn.pdf?dl=0)
 	- IDEO Methods: Try - [Slides](https://www.dropbox.com/s/m6cpkb0vxv23f37/CPSC481-03-02-Try.pdf?dl=0)
 - Wed, May 30
-	- Ideation
+	- Ideation - [Slides](https://www.dropbox.com/s/lkq4o35110brzhp/CPSC481-04-01-Ideation.pdf?dl=0)
 	- Task-Centered System Design
 	- Task-Centered System Design: Walkthrough
-	- Sketching
-	- Prototyping
+	- Sketching - [Slides](https://www.dropbox.com/s/m9pd6f2zkdm3xdh/CPSC481-04-02-Sketching.pdf?dl=0)
+	- Prototyping - [Slides](https://www.dropbox.com/s/ynva1vvc0tkimb4/CPSC481-04-03-Prototyping.pdf?dl=0)
 - Mon, Jun 4
 	- Presentations P2: Balsamiq prototypes
 	- Hi-fi prototypes
