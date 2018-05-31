@@ -19,6 +19,6 @@ Your team will submit projects via a portfolio site. The idea is to use this as 
 |----------------------------------------------------|-------|------|
 | [P0: Team contracts + project scope](#!pages/project0.md) - Establishing a set of rules that outline how the team will work, expectations, and consequences for poor performance. Also, a brief descriptio of the scope of your project.                                         | 2%    | May, 23  |
 | [P1: User research](#!pages/project1.md) - Conduct two different IDEO methods to learn about your users in their environment. Submit a report describing your process and experiences.                                 | 7%    | June, 1  |
-| [P2: Ideation and Lo-fi prototypes](#!pages/project2.md) - Brainstorm and sketch a variety of possible interfaces for your system, identifying important aspects of a user's flow. Present your process, ideas and low-fi prototype.                  | 8%   | Jun, 4  |
+| [P2: Ideation and Lo-fi prototypes](#!pages/project2.md) - Brainstorm and sketch a variety of possible interfaces for your system, identifying important aspects of a user's flow. Present your process, ideas and low-fi prototype.                  | 8%   | Jun, 6  |
 | [P3: Hi-fi prototype](#!pages/project3.md) - Build important features of your interface and system using a high fidelity prototype tool.      | 8%   | Jun, 18  |
 | [P4: Final report and presentation.](#!pages/project4.md) - Provide a report on your work, and present the entire work to your classmates.                 | 10%    | Jun, 25  |

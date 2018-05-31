@@ -39,13 +39,13 @@ This course provides an introduction to the process of designing, creating and e
 	- Sketching - [Slides](https://www.dropbox.com/s/m9pd6f2zkdm3xdh/CPSC481-04-02-Sketching.pdf?dl=0)
 	- Prototyping - [Slides](https://www.dropbox.com/s/ynva1vvc0tkimb4/CPSC481-04-03-Prototyping.pdf?dl=0)
 - Mon, Jun 4
-	- Presentations P2: Balsamiq prototypes
 	- Hi-fi prototypes
 	- UI Patterns
 - Wed, Jun 6
 	- **Midterm exam**
 - Mon, Jun 11
 	- Graphic Design
+	- Presentations P2: Balsamiq prototypes
 - Wed, Jun 13
 	- User Testing
 - Mon, Jun 18
@@ -69,6 +69,6 @@ This course provides an introduction to the process of designing, creating and e
 - A3: Jun, 11
 - P0: May, 23
 - P1: Jun, 1
-- P2: Jun, 4
+- P2: Jun, 6
 - P3: Jun, 18
 - P4: Jun, 25
