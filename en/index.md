@@ -39,17 +39,17 @@ This course provides an introduction to the process of designing, creating and e
 	- Sketching - [Slides](https://www.dropbox.com/s/m9pd6f2zkdm3xdh/CPSC481-04-02-Sketching.pdf?dl=0)
 	- Prototyping - [Slides](https://www.dropbox.com/s/ynva1vvc0tkimb4/CPSC481-04-03-Prototyping.pdf?dl=0)
 - Mon, Jun 4
-	- Hi-fi prototypes
-	- UI Patterns
+	- Principles, Guidelines and Patterns - [Slides](https://www.dropbox.com/s/bbp768wi3l54iub/CPSC481-05-01-Principles-Guidelines-Patterns.pdf?dl=0)
 - Wed, Jun 6
 	- **Midterm exam**
 - Mon, Jun 11
 	- Graphic Design
-	- Presentations P2: Balsamiq prototypes
+	- Presentations P2: lo-fi prototypes (10min per group)
 - Wed, Jun 13
 	- User Testing
 - Mon, Jun 18
 	- Data Visualization
+	- Presentations P3: hi-fi prototypes + heuristic evaluation findings (10min per group)
 - Wed, Jun 20
 	- Natural User Interfaces
 - Mon, Jun 25

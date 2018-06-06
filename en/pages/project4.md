@@ -10,6 +10,7 @@ Your presentation should present ideas at a very high level, and should cover th
 - What were the major design decisions that you made? (i.e. what did you decide were must haves vs. should haves; how did you arrive at the final design ideas?)
 - How do you justify your design decisions?
 - What did you discover from your heuristic evaluation?
+- What did you discover from your user testing?
 - How would you address these in the next iteration of the design?
 
 You should organize your final report with the following headings (roughly):
@@ -19,15 +20,13 @@ You should organize your final report with the following headings (roughly):
 - User Research and Findings
 - Design and Justification
 - Heuristic Evaluation and Findings
+- User Testing and Findings
 - Recommendations for Next Iteration of Design
 - Conclusions
 
 ## Deliverable
-- **Final in-tutorial presentation (or showcase presentation).** This is a 10 minute presentation where you are to construct a powerpoint slide deck. Make sure that you use the pictures and images/scans of your sketches/ideas liberally. Do not go over time. At 11 minutes, your TA will abruptly end your presentation. You will also answer questions from your TA and labmates for 5 minutes. Note: this is expected to a PowerPoint presentation.
-- **Final report.** This write-up should essentially be a summary of the major components from the previous steps of your project, but the point is to present it professionally and succinctly. You will submit this on your GitHub portfolio.
-
-
-## Grading sheet
+- **Final in-tutorial presentation (or showcase presentation).** This is a 15 minute presentation where you are to construct a powerpoint slide deck. Make sure that you use the pictures and images/scans of your sketches/ideas liberally. Do not go over time. At 15 minutes, ywe will abruptly end your presentation. You will also answer questions from us and labmates for 5 minutes. Note: this is expected to a PowerPoint presentation.
+- **Final report.** This write-up should essentially be a summary of the major components from the previous steps of your project, but the point is to present it professionally and succinctly. You will submit this on your GitHub portfolio and let us know via Slack.
 
 
 ## Resources
