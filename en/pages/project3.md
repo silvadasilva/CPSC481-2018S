@@ -19,5 +19,6 @@ In practice, your job now is to develop a hi-fi prototype, demo the system, cond
 ## Deliverable
 - High fidelity prototype
 - Evaluation report with the main findings
+- You will submit this on your website portfolio and let us know via Slack
 
 ## Resources
