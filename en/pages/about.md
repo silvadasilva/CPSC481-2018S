@@ -33,6 +33,8 @@ Participation is assessed via two sub-components: (1) tutorial participation, an
 
 Midterm and Final are closed-book exams where your knowledge retention, reasoning and written communication skills will be assessed.
 
+- You will be able to do a peer review. At the end of the term you will report how each team member participated on the development of the project. You will evaluate each member from their behavior during the term and which mark you would give to each one from your team. The evaluation will be anonymous to your teammates.
+
 ## Workload
 
 This is an intense course with a lot of team work.

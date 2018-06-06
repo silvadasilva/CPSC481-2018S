@@ -47,6 +47,7 @@ This course provides an introduction to the process of designing, creating and e
 	- Presentations P2: lo-fi prototypes (10min per group)
 - Wed, Jun 13
 	- User Testing
+	- Presentation A3: UI Design Patterns (10min per group)
 - Mon, Jun 18
 	- Data Visualization
 	- Presentations P3: hi-fi prototypes + heuristic evaluation findings (10min per group)

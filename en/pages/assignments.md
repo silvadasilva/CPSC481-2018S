@@ -49,6 +49,8 @@ Use 12-pt Times font with 1" margin on all sides.
 ## A3: UI Patterns for your project
 
 In this assignment, your task is to present at least 5 UI patterns to be used in your project.
+Each member of the team must present at least one pattern.
+The team should present these patterns on June 13. (10min presentation)
 
 
 ## Bonus: Weekly submissions to #designexamples

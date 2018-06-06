@@ -13,7 +13,7 @@ Now that you understand your users and their problem, your job is to brainstorm 
 You deliver this project component via your project webpage/github page and by doing a presentation during the tutorial of June 11th.
 - June 6: deadline for delivering the low-fidelity prototype via your project webpage/github.
 - June 11: presentation of what the group did for P1 (User Research) and P2 (Ideation and Low Fidelity Prototypes).
-- Each team will have 10min for the presentation. If the team exceeds its 10min, the presentation will be finished by me.
+- Each team will have 10min for the presentation. If the team exceeds its 10min, we will start to applause and the presentation will be finished.
 
 
 ## Resources
