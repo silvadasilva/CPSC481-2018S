@@ -9,7 +9,7 @@ For this project component, you will actually develop a prototype of your system
 In practice, your job now is to develop a hi-fi prototype, demo the system, conduct heuristic evaluation and report on the main findings.
 
 ## Major activities
-- Develop e hi-fi prototype
+- Develop the hi-fi prototype
 - Demo the system
 - Conduct heuristic evaluation
 - Report on the main findings
