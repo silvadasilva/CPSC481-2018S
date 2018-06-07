@@ -61,13 +61,13 @@ This course provides an introduction to the process of designing, creating and e
 
 
 ## Tutorials
-- TBD
+- Information in the #slides-tutorial slack channel.
 
 ## Expected Assignment Dates
 - A0: May, 16
 - A1: May, 23
 - A2: May, 30
-- A3: Jun, 11
+- A3: Jun, 13
 - P0: May, 23
 - P1: Jun, 1
 - P2: Jun, 6
