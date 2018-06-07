@@ -9,7 +9,7 @@ There are three assignments, worth a total of 12 points, plus a bonus assignment
 | A0: Slack introduction    |       | 5/16, before class |
 | A1: Heuristic evaluation  | 4%    | May, 23            |
 | A2: User-centered research| 4%    | May, 30            |
-| A3: UI Patterns           | 4%    | June, 11           |
+| A3: UI Patterns           | 4%    | June, 13           |
 
 ## A0: Slack introduction
 
