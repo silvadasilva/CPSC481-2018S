@@ -55,7 +55,7 @@ This course provides an introduction to the process of designing, creating and e
 	- Natural User Interfaces
 - Mon, Jun 25
 	- Final presentations P4: functional hi-fi protytpe + problems fixed
-- Wed, Jun 30
+- Sat, Jun 30
 	- **Final exam**
 
 
