@@ -43,7 +43,7 @@ This course provides an introduction to the process of designing, creating and e
 - Wed, Jun 6
 	- **Midterm exam**
 - Mon, Jun 11
-	- Graphic Design
+	- Graphic Design - Bon Adriel - [Slides](https://www.dropbox.com/s/ma5pffrqjtamqcl/15-Intro-to-Graphic-Design-for-UX.pdf?dl=0)
 	- Presentations P2: lo-fi prototypes (10min per group)
 - Wed, Jun 13
 	- User Testing
