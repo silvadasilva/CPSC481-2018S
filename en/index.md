@@ -46,7 +46,7 @@ This course provides an introduction to the process of designing, creating and e
 	- Graphic Design - Bon Adriel - [Slides](https://www.dropbox.com/s/ma5pffrqjtamqcl/15-Intro-to-Graphic-Design-for-UX.pdf?dl=0)
 	- Presentations P2: lo-fi prototypes (10min per group)
 - Wed, Jun 13
-	- User Testing
+	- Usability Evaluation - [Slides](https://www.dropbox.com/s/goo2a71fxw3p0tz/CPSC481-06-01-Usability%20Evaluation.pdf?dl=0)
 	- Presentation A3: UI Design Patterns (10min per group)
 - Mon, Jun 18
 	- Data Visualization
