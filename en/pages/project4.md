@@ -27,6 +27,7 @@ You should organize your final report with the following headings (roughly):
 ##Major activities
 - Test with 3 to 5 users
 - Execute 2 to 3 tasks
+- **Modify hi-fi prototype (p3) to include improvements from the testing**
 
 ## Deliverable
 - **Final presentation (or showcase presentation).** This is a 15 minute presentation where you are to construct a powerpoint slide deck. Make sure that you use the pictures and images/scans of your project. Do not go over time. At 15 minutes, we will abruptly end your presentation. You will also answer questions from us and labmates for 5 minutes. Note: this is expected to a PowerPoint presentation.
