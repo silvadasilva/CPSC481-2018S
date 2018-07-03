@@ -52,7 +52,7 @@ This course provides an introduction to the process of designing, creating and e
 	- Data Visualization
 	- Presentations P3: hi-fi prototypes + heuristic evaluation findings (10min per group)
 - Wed, Jun 20
-	- Natural User Interfaces
+	- System-User Interfaces - [Slides](https://www.dropbox.com/s/7zdmekv5c15xq1b/System-User%20Interface.pdf?dl=0)
 - Mon, Jun 25
 	- Final presentations P4: functional hi-fi protytpe + problems fixed
 - Sat, Jun 30
