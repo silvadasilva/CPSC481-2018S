@@ -5,7 +5,7 @@
 
 This course provides an introduction to the process of designing, creating and evaluating tools or artifacts for direct human use.
 
-- Lectures: MW 13:00 - 15:45, ST 147
+- Lectures: TR 15:30 - 16:45, KNB 126
 - Office hours: W 16:00 - 17:00 or by appointment, ICT 528
 - Instructor: Tiago Silva da Silva
 - Tutorials
