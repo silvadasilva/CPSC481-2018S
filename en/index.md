@@ -14,8 +14,9 @@ This course provides an introduction to the process of designing, creating and e
 	- TUT 3	T 09:00 - 10:50 - MS 156 (Bruna)
 
 	
-- TA: Bruna Brandão
-- Tim Au Yeung
+- TAs
+	- Bruna Brandão
+	- Tim Au Yeung
 
 
 ## Tentative Calendar
