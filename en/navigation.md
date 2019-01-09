@@ -22,6 +22,7 @@
 [Home](index.md)
 [About](pages/about.md)
 [Assignments]()
+
 * [About assignments](pages/assignments.md)
   - - - -
   * [A0](pages/project0.md)
