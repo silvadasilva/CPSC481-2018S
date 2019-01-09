@@ -5,13 +5,13 @@ There are three assignments, worth a total of 12 points, plus a bonus assignment
 
 <!-- Assignments are to be completed individually. You may speak to your classmates about the ideas, but are not allowed to use one another's writing or to share code. -->
 
-| Assignment                | Value | Due date.          |
-|---------------------------|-------| -------------------|
-| [A-1: Questions](#!pages/assignment-1.md)            |       | 1/10, during class |
-| A0: Slack introduction    |       | 1/17, before class |
-| A1: Heuristic evaluation  | 4%    | Jan, 31            |
-| A2: User-centered research| 4%    | Feb, 21            |
-| A3: DOET                  | 4%    | Mar, 21            |
+| Assignment                                          | Value | Due date.          |
+|-----------------------------------------------------|-------| -------------------|
+| [A-1: Questions](#!pages/assignment-1.md)           |       | 1/10, during class |
+| [A0: Slack introduction](#!pages/assignment0.md)    |       | 1/17, before class |
+| [A1: Heuristic evaluation](#!pages/assignment1.md)  | 4%    | Jan, 31            |
+| [A2: User-centered research](#!pages/assignment2.md)| 4%    | Feb, 21            |
+| [A3: DOET](#!pages/assignment3.md)                  | 4%    | Mar, 21            |
 
 
 

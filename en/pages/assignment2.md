@@ -1,6 +1,7 @@
 # A2: User-centered research
 
-You are to consider the IDEO methods for one design problem that you have, identifying which would be good methods for understanding the design problem, and arguing for why. **This is an individual assignment.**
+You are to consider the IDEO methods for one design problem that you have, identifying which would be good methods for understanding the design problem, and arguing for why.
+**This is an individual assignment.**
 
 Choose one design problem. From here, identify one method from each of the four IDEO categories (look, listen, try, and learn) that you could conduct to develop an understanding of the design problem and the users in it. Thus, choose a total of four methods -- one from each of the IDEO categories. The four methods you choose should complement one another.
 
