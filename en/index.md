@@ -13,10 +13,13 @@ This course provides an introduction to the process of designing, creating and e
 	- TUT 2	F 11:00 - 12:50 - MS 156 (Tim)
 	- TUT 3	T 09:00 - 10:50 - MS 156 (Bruna)
 
-	
 - TAs
 	- Bruna Brandão
 	- Tim Au Yeung
+
+- Communication
+	- [Slack](http://silvadasilva.github.io/CPSC481-2019W/)
+
 
 
 ## Tentative Calendar
