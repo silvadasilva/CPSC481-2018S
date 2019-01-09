@@ -1,15 +1,16 @@
 # Assignments
 
-There are three assignments, worth a total of 12 points, plus a bonus assignment assessed near the end of the term. The purpose of these assignments is to get you to think about design, and to help familiarize you with UI programming basics.
+There are three assignments, worth a total of 12 points, plus a bonus assignment assessed near the end of the term. The purpose of these assignments is to get you to think about design, and to help familiarize you with UI development basics.
 
 <!-- Assignments are to be completed individually. You may speak to your classmates about the ideas, but are not allowed to use one another's writing or to share code. -->
 
 | Assignment                | Value | Due date.          |
 |---------------------------|-------| -------------------|
-| A0: Slack introduction    |       | 5/16, before class |
-| A1: Heuristic evaluation  | 4%    | May, 23            |
-| A2: User-centered research| 4%    | May, 30            |
-| A3: UI Patterns           | 4%    | June, 13           |
+| A-1: Questions            |       | 1/10, during class |
+| A0: Slack introduction    |       | 1/17, before class |
+| A1: Heuristic evaluation  | 4%    | Jan, 31            |
+| A2: User-centered research| 4%    | Feb, 21            |
+| A3: DOET                  | 4%    | Mar, 21            |
 
 
 

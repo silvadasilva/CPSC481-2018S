@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# CPSC 481-2018S
+# CPSC 481-2019W
 
 
 <!--

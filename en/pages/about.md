@@ -29,7 +29,7 @@ To do this, you will get hands-on experience applying multiple methods for inter
 | Mid-term      | 15%   |
 | Final         | 30%   |
 
-Participation is assessed via two sub-components: (1) tutorial participation, and (2) online participation in surveys.
+Participation is assessed via two sub-components: (1) tutorial participation, and (2) in-class participation.
 
 Midterm and Final are closed-book exams where your knowledge retention, reasoning and written communication skills will be assessed.
 
@@ -39,6 +39,6 @@ Midterm and Final are closed-book exams where your knowledge retention, reasonin
 
 This is an intense course with a lot of team work.
 
-This intensity is higher in a Spring or Summer offering, because each week in these offerings is equivalent to two weeks in a regular Fall or Winter term.
-
-The recommended amount of time to spend on your studies is 2-3 hours per credit per (normal) week, right from week 1. This is a 3-unit course, which means 6-9 hours devoted to studying each week (this includes reading, reviewing, preparation for exams, assignment time, project time, etc.). Since we are in a compressed scheduled, you should expect to spend 12-18 hours/week outside of class preparing for class.
+<!-- This intensity is higher in a Spring or Summer offering, because each week in these offerings is equivalent to two weeks in a regular Fall or Winter term.
+ -->
+The recommended amount of time to spend on your studies is 2-3 hours per credit per (normal) week, right from week 1. This is a 3-unit course, which means 6-9 hours devoted to studying each week (this includes reading, reviewing, preparation for exams, assignment time, project time, etc.).
