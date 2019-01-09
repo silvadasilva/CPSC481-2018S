@@ -21,7 +21,14 @@
 
 [Home](index.md)
 [About](pages/about.md)
-[Assignments](pages/assignments.md)
+[Assignments]()
+* [About assignments](pages/assignments.md)
+  - - - -
+  * [A0](pages/project0.md)
+  * [A1](pages/project1.md)
+  * [A2](pages/project2.md)
+  * [A3](pages/project3.md)
+
 [Team Project]()
 
   * [About project](pages/project.md)
