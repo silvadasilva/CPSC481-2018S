@@ -6,7 +6,7 @@ There are three assignments, worth a total of 12 points, plus a bonus assignment
 
 | Assignment                | Value | Due date.          |
 |---------------------------|-------| -------------------|
-| A-1: Questions            |       | 1/10, during class |
+| [A-1: Questions] (#!pages/assignment-1.md)            |       | 1/10, during class |
 | A0: Slack introduction    |       | 1/17, before class |
 | A1: Heuristic evaluation  | 4%    | Jan, 31            |
 | A2: User-centered research| 4%    | Feb, 21            |
