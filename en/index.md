@@ -18,7 +18,7 @@ This course provides an introduction to the process of designing, creating and e
 	- Tim Au Yeung
 
 - Communication
-	- [Slack](http://silvadasilva.github.io/CPSC481-2019W/)
+	- [Slack](http://cpsc481-2019w.slack.com/)
 
 
 

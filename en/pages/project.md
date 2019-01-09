@@ -6,7 +6,7 @@ You will choose a project idea to work from, and use that project idea for every
 
 
 ## Teams
-The project is to be completed in teams of three, where all members are from the same tutorial section. The idea here is to work as a deep dive group to generate a wide breadth of alternate and varied design ideas -- just as you would in the real world.
+The project is to be completed in teams of five, where all members are from the same tutorial section. The idea here is to work as a deep dive group to generate a wide breadth of alternate and varied design ideas -- just as you would in the real world.
 
 Teams will create and operate under the particulars of their own team contract (P0). Consequences can be as severe as kicking a team member off the team.
 
@@ -17,8 +17,8 @@ Your team will submit projects via a portfolio site. The idea is to use this as 
 
 | Component                                          | Value | Date |
 |----------------------------------------------------|-------|------|
-| [P0: Team contracts + project scope](#!pages/project0.md) - Establishing a set of rules that outline how the team will work, expectations, and consequences for poor performance. Also, a brief descriptio of the scope of your project.                                         | 2%    | May, 23  |
-| [P1: User research](#!pages/project1.md) - Conduct two different IDEO methods to learn about your users in their environment. Submit a report describing your process and experiences.                                 | 7%    | June, 1  |
-| [P2: Ideation and Lo-fi prototypes](#!pages/project2.md) - Brainstorm and sketch a variety of possible interfaces for your system, identifying important aspects of a user's flow. Present your process, ideas and low-fi prototype.                  | 8%   | Jun, 6  |
-| [P3: Hi-fi prototype](#!pages/project3.md) - Build important features of your interface and system using a high fidelity prototype tool.      | 8%   | Jun, 18  |
-| [P4: Final report and presentation.](#!pages/project4.md) - Provide a report on your work, and present the entire work to your classmates.                 | 10%    | Jun, 25  |
+| [P0: Team contracts + project scope](#!pages/project0.md) - Establishing a set of rules that outline how the team will work, expectations, and consequences for poor performance. Also, a brief description of the scope of your project.                                         | 2%    | Jan 22  |
+| [P1: User research](#!pages/project1.md) - Conduct two different IDEO methods to learn about your users in their environment. Submit a report describing your process and experiences.                                 | 7%    | Feb 12  |
+| [P2: Ideation and Lo-fi prototypes](#!pages/project2.md) - Brainstorm and sketch a variety of possible interfaces for your system, identifying important aspects of a user's flow. Present your process, ideas and low-fi prototype.                  | 8%   | Feb 26  |
+| [P3: Hi-fi prototype](#!pages/project3.md) - Build important features of your interface and system using a high fidelity prototype tool.      | 8%   | Mar 12  |
+| [P4: Final report and presentation.](#!pages/project4.md) - Provide a report on your work, and present the entire work to your classmates.                 | 10%    | Apr 02  |
