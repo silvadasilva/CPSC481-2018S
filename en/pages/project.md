@@ -6,7 +6,7 @@ You will choose a project idea to work from, and use that project idea for every
 
 
 ## Teams
-The project is to be completed in teams of five, where all members are from the same tutorial section. The idea here is to work as a deep dive group to generate a wide breadth of alternate and varied design ideas -- just as you would in the real world.
+The project is to be completed in teams of five (at most), where all members are from the same tutorial section. The idea here is to work as a deep dive group to generate a wide breadth of alternate and varied design ideas -- just as you would in the real world.
 
 Teams will create and operate under the particulars of their own team contract (P0). Consequences can be as severe as kicking a team member off the team.
 

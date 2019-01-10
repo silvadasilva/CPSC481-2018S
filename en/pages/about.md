@@ -1,4 +1,4 @@
-# About CPSC 481 2018S
+# About CPSC 481 2019W
 
 This course provides an introduction to the process of designing, creating and evaluating tools or artifacts for direct human use.
 

@@ -13,12 +13,12 @@ In practice, your job now is to develop a hi-fi prototype, demo the system, cond
 - Demo the system
 - Conduct heuristic evaluation
 - Report on the main findings
-- Present these activities on June 18 (10min per group)
+- Present these activities
 
 
 ## Deliverable
-- High fidelity prototype
+<!-- - High fidelity prototype
 - Evaluation report with the main findings
 - You will submit this on your website portfolio and let us know via Slack
-
+ -->
 ## Resources
