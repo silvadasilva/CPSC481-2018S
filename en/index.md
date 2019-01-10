@@ -25,28 +25,28 @@ This course provides an introduction to the process of designing, creating and e
 ## Tentative Calendar
 
 - Thu, Jan 10
-	- Introduction - [Slides](link)
-	- Good interfaces - [Slides](link)
+	- Introduction
+	- Good interfaces
 - Tue, Jan 15
-	- Heuristic Evaluation - [Slides](link)
+	- Heuristic Evaluation
 - Thu, Jan 17
-	- User-Centered Design - [Slides](link)
-	- Investigation - [Slides](link)
+	- User-Centered Design
+	- Investigation
 - Tue, Jan 22
-	- IDEO Methods: Look - [Slides](link)
-	- IDEO Methods: Ask - [Slides](link)
+	- IDEO Methods: Look
+	- IDEO Methods: Ask
 - Thu, Jan 24
-	- IDEO Methods: Learn - [Slides](link)
-	- IDEO Methods: Try - [Slides](link)
+	- IDEO Methods: Learn
+	- IDEO Methods: Try
 - Tue, Jan 29
-	- Ideation - [Slides](link)
-	- Sketching - [Slides](link)
+	- Ideation
+	- Sketching
 - Thu, Jan 31
 	- Task-Centered System Design
 - Tue, Feb 05
 	- Task-Centered System Design: Walkthrough
 - Thu, Feb 07
-	- Prototyping - [Slides](link)
+	- Prototyping
 	<!-- - Graphic Design - Bon Adriel - [Slides](https://www.dropbox.com/s/ma5pffrqjtamqcl/15-Intro-to-Graphic-Design-for-UX.pdf?dl=0) -->
 - Tue, Feb 12
 	- Recap
@@ -65,7 +65,7 @@ This course provides an introduction to the process of designing, creating and e
 - Thu, Mar 07
 	- Design of Everyday Things IV
 - Tue, Mar 12
-	- Usability Evaluation - [Slides](link)
+	- Usability Evaluation
 - Thu, Mar 14
 	- Heuristic Evaluation
 - Tue, Mar 19
@@ -77,7 +77,7 @@ This course provides an introduction to the process of designing, creating and e
 - Thu, Mar 28
 	- User Testing II
 - Tue, Apr 02
-	- Principles, Guidelines and Patterns - [Slides](link)
+	- Principles, Guidelines and Patterns
 - Thu, Apr 04
 	- Recap or Final project presentations
 - Tue, Apr 09
