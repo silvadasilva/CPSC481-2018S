@@ -25,8 +25,8 @@ This course provides an introduction to the process of designing, creating and e
 ## Tentative Calendar
 
 - Thu, Jan 10
-	- Introduction
-	- Good interfaces
+	- Introduction - [Slides](https://www.dropbox.com/s/99uf8lp0tubh2bc/CPSC481-01-01-Introduction.pdf?dl=0)
+	- Good interfaces - [Slides]()
 - Tue, Jan 15
 	- Heuristic Evaluation
 - Thu, Jan 17
