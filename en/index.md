@@ -26,7 +26,7 @@ This course provides an introduction to the process of designing, creating and e
 
 - Thu, Jan 10
 	- Introduction - [Slides](https://www.dropbox.com/s/99uf8lp0tubh2bc/CPSC481-01-01-Introduction.pdf?dl=0)
-	- Good interfaces - [Slides](https://www.dropbox.com/s/ip1f49avp3w1f5w/CPSC481-01-02-GoodInterfaces%2BUCD.pdf?dl=0)
+	- Good interfaces + UCD - [Slides](https://www.dropbox.com/s/ip1f49avp3w1f5w/CPSC481-01-02-GoodInterfaces%2BUCD.pdf?dl=0)
 - Tue, Jan 15
 	- Heuristic Evaluation
 - Thu, Jan 17
