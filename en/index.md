@@ -28,7 +28,7 @@ This course provides an introduction to the process of designing, creating and e
 	- Introduction - [Slides](https://www.dropbox.com/s/99uf8lp0tubh2bc/CPSC481-01-01-Introduction.pdf?dl=0)
 	- Good interfaces + UCD - [Slides](https://www.dropbox.com/s/ip1f49avp3w1f5w/CPSC481-01-02-GoodInterfaces%2BUCD.pdf?dl=0)
 - Tue, Jan 15
-	- Heuristic Evaluation
+	- Heuristic Evaluation - <!-- [Slides](https://www.dropbox.com/s/ltnn3ttwsj4x2az/CPSC481-01-HeuristicEvaluation.pdf?dl=0) -->
 - Thu, Jan 17
 	- User-Centered Design
 	- Investigation
