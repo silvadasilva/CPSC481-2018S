@@ -31,8 +31,8 @@ This course provides an introduction to the process of designing, creating and e
 	- Heuristic Evaluation - [Slides](../en/files/CPSC481-01-HeuristicEvaluation.pdf)
 - Thu, Jan 17
 	- User-Centered Design - [Slides](../en/files/CPSC481-02-01-UserCenteredDesign.pdf)
-	- Investigation
 - Tue, Jan 22
+	- Investigation - [Slides](../en/files/CPSC481-03-01-Investigation.pdf)
 	- IDEO Methods: Look
 	- IDEO Methods: Ask
 - Thu, Jan 24
