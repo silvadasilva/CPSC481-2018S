@@ -35,10 +35,10 @@ This course provides an introduction to the process of designing, creating and e
 	- Investigation - [Slides](../en/files/CPSC481-03-01-Investigation.pdf)
 	- IDEO Methods: Look - [Slides](../en/files/CPSC481-03-02-Look.pdf)
 - Thu, Jan 24
-	- IDEO Methods: Ask
-	- IDEO Methods: Learn
-	- IDEO Methods: Try
+	- IDEO Methods: Ask - [Slides](../en/files/CPSC481-04-01-Ask.pdf)
+	- IDEO Methods: Learn - [Slides](../en/files/CPSC481-04-02-Learn.pdf)
 - Tue, Jan 29
+	- IDEO Methods: Try
 	- Ideation
 	- Sketching
 - Thu, Jan 31
