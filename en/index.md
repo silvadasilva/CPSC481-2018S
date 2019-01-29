@@ -38,10 +38,10 @@ This course provides an introduction to the process of designing, creating and e
 	- IDEO Methods: Ask - [Slides](../en/files/CPSC481-04-01-Ask.pdf)
 	- IDEO Methods: Learn - [Slides](../en/files/CPSC481-04-02-Learn.pdf)
 - Tue, Jan 29
-	- IDEO Methods: Try
-	- Ideation
-	- Sketching
+	- IDEO Methods: Try - [Slides](../en/files/CPSC481-05-01-Try.pdf)
+	- Ideation - [Slides](../en/files/CPSC481-05-02-Ideation.pdf)
 - Thu, Jan 31
+	- Sketching
 	- Task-Centered System Design
 - Tue, Feb 05
 	- Task-Centered System Design: Walkthrough
@@ -93,11 +93,11 @@ This course provides an introduction to the process of designing, creating and e
 ## Expected Assignment and Project Dates
 - A-1: Jan 10
 - A0: Jan 17
-- A1: Jan 31
-- A2: Feb 21
+- A1: Feb 04
+- A2: Feb 25
 - A3: Mar 21
 - P0: Jan 25
-- P1: Feb 12
-- P2: Feb 26
-- P3: Mar 12
-- P4: Apr 02
+- P1: Feb 17
+- P2: Mar 03
+- P3: Mar 24
+- P4: Apr 08

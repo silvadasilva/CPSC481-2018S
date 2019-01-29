@@ -9,8 +9,8 @@ There are three assignments, worth a total of 12 points, plus a bonus assignment
 |-----------------------------------------------------|-------| ---------------------|
 | [A-1: Questions](#!pages/assignment-1.md)           |       | Jan 10, during class |
 | [A0: Slack introduction](#!pages/assignment0.md)    |       | Jan 17, before class |
-| [A1: Heuristic evaluation](#!pages/assignment1.md)  | 4%    | Jan 31               |
-| [A2: User-centered research](#!pages/assignment2.md)| 4%    | Feb 21               |
+| [A1: Heuristic evaluation](#!pages/assignment1.md)  | 4%    | Feb 04               |
+| [A2: User-centered research](#!pages/assignment2.md)| 4%    | Feb 25               |
 | [A3: DOET](#!pages/assignment3.md)                  | 4%    | Mar 21               |
 
 
