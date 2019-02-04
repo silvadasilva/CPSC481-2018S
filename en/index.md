@@ -84,7 +84,7 @@ This course provides an introduction to the process of designing, creating and e
 	- Final project presentations
 - Thu, Apr 11
 	- Final project presentations
-- Apr 15 - Apr 27
+- Tue, Apr 16 (12 - 14)
 	- **Final exam!**
 
 ## Tutorials
