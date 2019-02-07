@@ -47,7 +47,7 @@ This course provides an introduction to the process of designing, creating and e
 	- Sketching - [Slides](../en/files/CPSC481-07-01-Sketching.pdf)
 	- [Sketching User Experiences: The Workbook](https://sketchbook.cpsc.ucalgary.ca/)
 - Thu, Feb 07
-	- Prototyping
+	- Prototyping - [Slides](../en/files/CPSC481-08-01-Prototyping.pdf)
 	<!-- - Graphic Design - Bon Adriel - [Slides](https://www.dropbox.com/s/ma5pffrqjtamqcl/15-Intro-to-Graphic-Design-for-UX.pdf?dl=0) -->
 - Tue, Feb 12
 	- Recap
