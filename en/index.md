@@ -58,13 +58,15 @@ This course provides an introduction to the process of designing, creating and e
 - Thu, Feb 21
 	- Reading week...
 - Tue, Feb 26
-	- Design of Everyday Things I
+	- Design of Everyday Things I - [Slides](../en/files/CPSC481-09-02-DOET.pdf)
+	- Design of Everyday Things II - [Slides](../en/files/CPSC481-09-03-DOET.pdf)
 - Thu, Feb 28
-	- Design of Everyday Things II
-- Tue, Mar 05
 	- Design of Everyday Things III
-- Thu, Mar 07
 	- Design of Everyday Things IV
+- Tue, Mar 05
+	- Information Representation
+- Thu, Mar 07
+	- Information Representation
 - Tue, Mar 12
 	- Usability Evaluation
 - Thu, Mar 14
