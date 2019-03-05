@@ -61,8 +61,8 @@ This course provides an introduction to the process of designing, creating and e
 	- Design of Everyday Things I - [Slides](../en/files/CPSC481-09-02-DOET.pdf)
 	- Design of Everyday Things II - [Slides](../en/files/CPSC481-09-03-DOET.pdf)
 - Thu, Feb 28
-	- Design of Everyday Things III
-	- Design of Everyday Things IV
+	- Design of Everyday Things III - [Slides](../en/files/CPSC481-10-01-DOET.pdf)
+	- Design of Everyday Things IV - [Slides](../en/files/CPSC481-10-02-DOET.pdf)
 - Tue, Mar 05
 	- Information Representation
 - Thu, Mar 07
