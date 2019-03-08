@@ -66,7 +66,7 @@ This course provides an introduction to the process of designing, creating and e
 - Tue, Mar 05
 	- Information Representation - [Slides](../en/files/CPSC481-11-01.pdf)
 - Thu, Mar 07
-	- Information Representation
+	- Introduction to Usability Evaluation - [Slides](../en/files/CPSC481-12-Intro-to-Usability-Evaluation.pdf)
 - Tue, Mar 12
 	- Usability Evaluation
 - Thu, Mar 14
