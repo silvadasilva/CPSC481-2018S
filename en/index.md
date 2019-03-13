@@ -68,6 +68,7 @@ This course provides an introduction to the process of designing, creating and e
 - Thu, Mar 07
 	- Introduction to Usability Evaluation - [Slides](../en/files/CPSC481-12-Intro-to-Usability-Evaluation.pdf)
 - Tue, Mar 12
+	- Visual Design - [Slides](../en/files/VisualDesignIntroduction.pdf)
 	- Usability Evaluation
 - Thu, Mar 14
 	- Heuristic Evaluation
