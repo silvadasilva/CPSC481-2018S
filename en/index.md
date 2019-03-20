@@ -99,7 +99,7 @@ This course provides an introduction to the process of designing, creating and e
 - A0: Jan 17
 - A1: Feb 04
 - A2: Feb 25
-- A3: Mar 21
+- A3: Apr 05
 - P0: Jan 25
 - P1: Feb 17
 - P2: Mar 03
