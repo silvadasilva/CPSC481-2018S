@@ -71,23 +71,23 @@ This course provides an introduction to the process of designing, creating and e
 	- Visual Design - [Slides](../en/files/VisualDesignIntroduction.pdf)
 	- Usability Evaluation
 - Thu, Mar 14
-	- Heuristic Evaluation
+	- Inspection Evaluation - [Slides](../en/files/CPSC481-14-Usability Inspection Evaluation)
 - Tue, Mar 19
-	- Invited Talk
+	- Invited Talk (Lorans Alabood) - [Slides]()
 - Thu, Mar 21
-	- Invited Talk
+	- Invited Talk (Steven Vi) - [Slides]()
 - Tue, Mar 26
-	- User Testing I
+	- User Testing I - [Slides]()
 - Thu, Mar 28
-	- User Testing II
+	- User Testing II - [Slides]()
 - Tue, Apr 02
 	- Principles, Guidelines and Patterns
 - Thu, Apr 04
-	- Recap or Final project presentations
+	- Final project presentations
 - Tue, Apr 09
-	- Final project presentations
+	- Information Visualization (Wesley Willett)
 - Thu, Apr 11
-	- Final project presentations
+	- Recap ?
 - Tue, Apr 16 (12 - 14)
 	- **Final exam!**
 
