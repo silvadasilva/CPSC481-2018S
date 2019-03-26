@@ -73,13 +73,13 @@ This course provides an introduction to the process of designing, creating and e
 - Thu, Mar 14
 	- Inspection Evaluation - [Slides](../en/files/CPSC481-14-Usability Inspection Evaluation)
 - Tue, Mar 19
-	- Invited Talk (Lorans Alabood) - [Slides]()
+	- Invited Talk (Lorans Alabood)
 - Thu, Mar 21
-	- Invited Talk (Steven Vi) - [Slides]()
+	- Invited Talk (Steven Vi)
 - Tue, Mar 26
 	- User Testing I - [Slides]()
 - Thu, Mar 28
-	- User Testing II - [Slides]()
+	- User Testing II
 - Tue, Apr 02
 	- Principles, Guidelines and Patterns
 - Thu, Apr 04
