@@ -75,11 +75,11 @@ This course provides an introduction to the process of designing, creating and e
 - Tue, Mar 19
 	- Invited Talk (Lorans Alabood)
 - Thu, Mar 21
-	- Invited Talk (Steven Vi)
+	- Invited Talk (Steven Vi) [Slides](../en/files/2019 March Designing for Extended Reality.pdf)
 - Tue, Mar 26
-	- User Testing I - [Slides]()
+	- Usability Testing I - [Slides]()
 - Thu, Mar 28
-	- User Testing II
+	- Usability Testing II
 - Tue, Apr 02
 	- Principles, Guidelines and Patterns
 - Thu, Apr 04
