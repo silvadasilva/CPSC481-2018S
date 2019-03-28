@@ -77,7 +77,7 @@ This course provides an introduction to the process of designing, creating and e
 - Thu, Mar 21
 	- Invited Talk (Steven Vi) [Slides](../en/files/2019 March Designing for Extended Reality.pdf)
 - Tue, Mar 26
-	- Usability Testing I - [Slides](../en/CPSC481-15-Usability Evaluation-01.pdf)
+	- Usability Testing I - [Slides](../en/files/CPSC481-15-Usability Evaluation-01.pdf)
 - Thu, Mar 28
 	- Usability Testing II
 - Tue, Apr 02
