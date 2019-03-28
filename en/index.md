@@ -79,7 +79,7 @@ This course provides an introduction to the process of designing, creating and e
 - Tue, Mar 26
 	- Usability Testing I - [Slides](../en/files/CPSC481-15-Usability Evaluation-01.pdf)
 - Thu, Mar 28
-	- Usability Testing II
+	- Usability Testing II - [Slides](../en/files/CPSC481-16-Usability Evaluation-02.pdf)
 - Tue, Apr 02
 	- Principles, Guidelines and Patterns
 - Thu, Apr 04
