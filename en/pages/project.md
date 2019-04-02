@@ -1,6 +1,6 @@
 # Team Project
 
-Note: The final presentations (P4) are going to be furing the week of the 8-12 depending on what section you are in.
+Note: The final presentations (P4) are going to be during the week of the 8-12 depending on what section you are in.
 
 The project is a hands-on opportunity to try the methods and ideas that we cover and discuss in class -- in particular, to engage in a user-centered design process. The two main lessons to be learned here is that: (a) designers do not rely on their intuition, but instead rely on real user research, and that (b) design is really about a process. This is a process that you can apply as a software developer in the real world.
 
