@@ -20,7 +20,9 @@ This course provides an introduction to the process of designing, creating and e
 - Communication
 	- [Slack](http://cpsc481-2019w.slack.com/)
 
-Note: The final exam is on ...
+Note: The final presentations (P4) are going to be during the week of the 8-12 depending on what section you are in.
+
+Note: The final exam is on Tue, Apr 16 (12 - 14), at KNB 132.
 
 
 
@@ -90,7 +92,7 @@ Note: The final exam is on ...
 	- Information Visualization (Wesley Willett)
 - Thu, Apr 11
 	- Recap ?
-- Tue, Apr 16 (12 - 14)
+- Tue, Apr 16 (12 - 14) - KNB 132
 	- **Final exam!**
 
 ## Tutorials

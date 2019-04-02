@@ -1,5 +1,7 @@
 # Team Project
 
+Note: The final presentations (P4) are going to be furing the week of the 8-12 depending on what section you are in.
+
 The project is a hands-on opportunity to try the methods and ideas that we cover and discuss in class -- in particular, to engage in a user-centered design process. The two main lessons to be learned here is that: (a) designers do not rely on their intuition, but instead rely on real user research, and that (b) design is really about a process. This is a process that you can apply as a software developer in the real world.
 
 You will choose a project idea to work from, and use that project idea for every component. The project has four main components. The first component asks you to consider real users in the context of real activities, and understand their real needs. The second component is about the process of brainstorming and iteratively developing and building on ideas quickly and cheaply, asking you to identify the most important aspects of your system. The third component is about building the system in a low fidelity prototype. In the final component, you build the system in a fully functional hi fidelity prototype and evaluate the interface/system that you have built by carrying out user testing, provide a brief report, and presentation about the entire scope of your project.
