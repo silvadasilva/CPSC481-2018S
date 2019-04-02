@@ -20,6 +20,8 @@ This course provides an introduction to the process of designing, creating and e
 - Communication
 	- [Slack](http://cpsc481-2019w.slack.com/)
 
+Note: The final exam is on ...
+
 
 
 ## Tentative Calendar
@@ -83,7 +85,7 @@ This course provides an introduction to the process of designing, creating and e
 - Tue, Apr 02
 	- Principles, Guidelines and Patterns
 - Thu, Apr 04
-	- Final project presentations
+	- 
 - Tue, Apr 09
 	- Information Visualization (Wesley Willett)
 - Thu, Apr 11
