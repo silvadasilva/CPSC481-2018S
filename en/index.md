@@ -79,13 +79,13 @@ Note: The final exam is on Tue, Apr 16 (12 - 14), at KNB 132.
 - Tue, Mar 19
 	- Invited Talk (Lorans Alabood)
 - Thu, Mar 21
-	- Invited Talk (Steven Vi) [Slides](../en/files/2019 March Designing for Extended Reality.pdf)
+	- Invited Talk (Steven Vi) - [Slides](../en/files/2019 March Designing for Extended Reality.pdf)
 - Tue, Mar 26
 	- Usability Testing I - [Slides](../en/files/CPSC481-15-Usability Evaluation-01.pdf)
 - Thu, Mar 28
 	- Usability Testing II - [Slides](../en/files/CPSC481-16-Usability Evaluation-02.pdf)
 - Tue, Apr 02
-	- Principles, Guidelines and Patterns
+	- Principles, Guidelines and Patterns - [Slides](../en/files/CPSC481-17-Principles-Guidelines-Patterns.pdf)
 - Thu, Apr 04
 	- 
 - Tue, Apr 09
