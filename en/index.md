@@ -20,6 +20,8 @@ This course provides an introduction to the process of designing, creating and e
 - Communication
 	- [Slack](http://cpsc481-2019w.slack.com/)
 
+Note: Upon several requests, the final report submission is due April 13 (after the week of presentations).
+
 Note: The final presentations (P4) are going to be during the week of the 8-12 depending on what section you are in.
 
 Note: The final exam is on Tue, Apr 16 (12 - 14), at KNB 132.
