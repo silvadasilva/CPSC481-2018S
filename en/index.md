@@ -76,7 +76,7 @@ Note: The final exam is on Tue, Apr 16 (12 - 14), at KNB 132.
 	- Visual Design - [Slides](../en/files/VisualDesignIntroduction.pdf)
 	- Usability Evaluation
 - Thu, Mar 14
-	- Inspection Evaluation - [Slides](../en/files/CPSC481-14-Usability Inspection Evaluation)
+	- Inspection Evaluation - [Slides](../en/files/CPSC481-14-Usability Inspection Evaluation.pdf)
 - Tue, Mar 19
 	- Invited Talk (Lorans Alabood)
 - Thu, Mar 21
