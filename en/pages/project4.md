@@ -33,6 +33,6 @@ You should organize your final report with the following headings (roughly):
 - **Final presentation (or showcase presentation).** This is a 15 minute presentation where you are to construct a powerpoint slide deck. Make sure that you use the pictures and images/scans of your project. Do not go over time. At 15 minutes, we will abruptly end your presentation. You will also answer questions from us and labmates for 5 minutes. Note: this is expected to a PowerPoint presentation.
 - **Final report.** This write-up should essentially be a summary of the major components from the previous steps of your project, but the point is to present it professionally and succinctly. You will submit this on your GitHub portfolio and let us know via Slack.
 
-Note: The report and presentation should focus on the last 3 items (user testing and findings, recommendations for next iteraction of design and conclusions for the project).
+Note: The report and presentation should focus on the last 3 items (user testing and findings, recommendations for next iteration of design and conclusions for the project).
 
 ## Resources
