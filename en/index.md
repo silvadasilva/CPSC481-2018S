@@ -86,7 +86,7 @@ Note: Upon several requests, the final report submission is due April 13 (after 
 - Tue, Apr 02
 	- Principles, Guidelines and Patterns - [Slides](../en/files/CPSC481-17-Principles-Guidelines-Patterns.pdf)
 - Thu, Apr 04
-	- 
+	- Patterns presentations
 - Tue, Apr 09
 	- Information Visualization (Wesley Willett)
 - Thu, Apr 11
